@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ototpark Otomasyonu", "Ototpark Otomasyonu\Ototpark Otomasyonu.csproj", "{F60A173E-A489-47A7-B1B9-863447BB86AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1(Otopark_Otomasyonu)", "UnitTestProject1(Otopark_Otomasyonu)\UnitTestProject1(Otopark_Otomasyonu).csproj", "{6C9B3AF2-B985-490F-A7CB-E2993C794503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60A173E-A489-47A7-B1B9-863447BB86AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60A173E-A489-47A7-B1B9-863447BB86AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60A173E-A489-47A7-B1B9-863447BB86AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A173E-A489-47A7-B1B9-863447BB86AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9B3AF2-B985-490F-A7CB-E2993C794503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9B3AF2-B985-490F-A7CB-E2993C794503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9B3AF2-B985-490F-A7CB-E2993C794503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9B3AF2-B985-490F-A7CB-E2993C794503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
